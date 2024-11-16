@@ -1,7 +1,7 @@
 setup:
   ^SetupCaption: "Instalação do $(^Name) v${VERSION}${VERSION_NOTE}"
   ^UninstallCaption: "Desinstalação do $(^Name) v${VERSION}${VERSION_NOTE}"
-  SECTION_MAIN: "$(^NameDA) (required)"
+  SECTION_MAIN: "$(^NameDA) (obrigatório)"
   SECTION_STARTMENU: "Atalhos do menu Iniciar"
   SECTION_DESKTOP: "Atalhos da Área de Trabalho"
   INSTALLER_RUNNING: "Instalação do $(^Name) em andamento"
